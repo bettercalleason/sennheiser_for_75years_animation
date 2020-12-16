@@ -267,7 +267,7 @@
       </h2>
     </div>
 
-    <div class="content">
+    <div class="content" id="content75years">
       <img class="content__img" src="images/1_index/75years/01.jpg" alt="Some image" />
       <img class="content__img" src="images/1_index/75years/02.jpg" alt="Some image" />
       <img class="content__img" src="images/1_index/75years/03.jpg" alt="Some image" />
